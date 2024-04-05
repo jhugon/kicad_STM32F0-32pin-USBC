@@ -3143,6 +3143,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 187.96 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
+			(at 187.96 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5a31ca87-d01f-47b6-8219-779863ff3975")
 		)
@@ -3485,6 +3503,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 77.47 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
+			(at 77.47 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "56de6f29-c633-43f5-b3cc-05a92305cbb6")
 		)
@@ -3559,6 +3595,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 49.53 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 49.53 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 49.53 133.35 0)
 			(effects
 				(font
@@ -3769,6 +3823,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 205.74 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
+			(at 205.74 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b88775c4-56ea-4d80-a71d-8ca7a6184081")
 		)
@@ -3831,6 +3903,24 @@
 			)
 		)
 		(property "Description" "2-polar test point"
+			(at 132.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 132.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 132.08 93.98 0)
 			(effects
 				(font
@@ -3975,6 +4065,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 229.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
+			(at 229.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "048508e6-2e5f-466d-b808-ae43ae8434a5")
 		)
@@ -4037,6 +4145,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 34.29 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 34.29 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 34.29 133.35 0)
 			(effects
 				(font
@@ -4173,6 +4299,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 167.64 92.71 0)
 			(effects
 				(font
@@ -4449,6 +4593,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 215.9 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
+			(at 215.9 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "77d9ee2c-9096-4a04-a95b-a7bab82674fb")
 		)
@@ -4511,6 +4673,24 @@
 			)
 		)
 		(property "Description" "2-polar test point"
+			(at 241.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 241.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -4589,6 +4769,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "358cb15f-26bc-4dff-978c-9373279453df")
 		)
@@ -4649,6 +4847,24 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 44.45 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 44.45 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 44.45 81.28 0)
 			(effects
 				(font
