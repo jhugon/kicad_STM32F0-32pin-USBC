@@ -589,6 +589,10 @@
     [
       "442e26cf-a0b4-49b0-8670-5150c599c386",
       "Root"
+    ],
+    [
+      "30dbc639-b45f-474f-a6ea-3ac3291e9e9a",
+      "USB_and_LDO"
     ]
   ],
   "text_variables": {}
