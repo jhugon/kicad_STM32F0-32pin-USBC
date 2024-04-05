@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "442e26cf-a0b4-49b0-8670-5150c599c386")
+	(paper "USLetter")
+	(title_block
+		(title "STM32F0 32-pin USB-C")
+		(date "2024-04-05")
+		(company "HugonLabs")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
