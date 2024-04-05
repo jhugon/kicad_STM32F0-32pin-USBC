@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AAAA_HugonLib")(type "KiCad")(uri "${KIPRJMOD}/kicad_hugonlib/AAAA_HugonLib.pretty")(options "")(descr ""))
+)

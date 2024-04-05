@@ -1,0 +1,3 @@
+[submodule "kicad_hugonlib"]
+	path = kicad_hugonlib
+	url = git@github.com:jhugon/kicad_hugonlib.git
