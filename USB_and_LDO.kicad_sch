@@ -52,6 +52,15 @@
 					(hide yes)
 				)
 			)
+			(property "MFR" "Microchip"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "LDO, regulator, linear, SOT-223"
 				(at 0 0 0)
 				(effects
@@ -3099,7 +3108,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Microchip"
 			(at 187.96 92.71 0)
 			(effects
 				(font
@@ -3108,7 +3117,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "MCP1755S-3302E/DB"
 			(at 187.96 92.71 0)
 			(effects
 				(font
@@ -3456,7 +3465,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "STMicroelectronics"
 			(at 77.47 81.28 0)
 			(effects
 				(font
@@ -3465,7 +3474,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "USBLC6-2SC6"
 			(at 77.47 81.28 0)
 			(effects
 				(font
@@ -3556,7 +3565,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay"
 			(at 49.53 133.35 0)
 			(effects
 				(font
@@ -3565,7 +3574,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "CRCW12065K10FKEA"
 			(at 49.53 133.35 0)
 			(effects
 				(font
@@ -4106,7 +4115,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay"
 			(at 34.29 133.35 0)
 			(effects
 				(font
@@ -4115,7 +4124,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "CRCW12065K10FKEA"
 			(at 34.29 133.35 0)
 			(effects
 				(font
@@ -4260,7 +4269,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Kemet"
 			(at 167.64 92.71 0)
 			(effects
 				(font
@@ -4269,7 +4278,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "C1206C105K4RACTU"
 			(at 167.64 92.71 0)
 			(effects
 				(font
@@ -4546,7 +4555,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Kemet"
 			(at 215.9 105.41 0)
 			(effects
 				(font
@@ -4555,7 +4564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "C1206C105K4RACTU"
 			(at 215.9 105.41 0)
 			(effects
 				(font
@@ -4722,7 +4731,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Kemet"
 			(at 153.67 92.71 0)
 			(effects
 				(font
@@ -4731,7 +4740,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "C1206C106K4RACTU"
 			(at 153.67 92.71 0)
 			(effects
 				(font
@@ -4808,7 +4817,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "GCT"
 			(at 44.45 81.28 0)
 			(effects
 				(font
@@ -4817,7 +4826,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "USB4085-GF-A"
 			(at 44.45 81.28 0)
 			(effects
 				(font

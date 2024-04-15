@@ -2969,6 +2969,17 @@
 		)
 		(uuid "26468262-ecef-41db-9847-63183dc6797f")
 	)
+	(text "LTST-C150KRKT Red LEDs\nV_f 2.0 V typ 2.4 V max\nFor 5 mA current: 260 Ohm ~ 270 Ohm"
+		(exclude_from_sim no)
+		(at 214.63 37.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "638cfb32-e737-40db-86c7-6893bcdacd14")
+	)
 	(text "PA9  is USART1_TX\nPA10 is USART1_RX"
 		(exclude_from_sim no)
 		(at 95.504 54.356 0)
@@ -3473,7 +3484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "M3"
 			(at 250.19 157.4799 0)
 			(effects
 				(font
@@ -3555,7 +3566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "270R"
 			(at 218.44 54.6099 0)
 			(effects
 				(font
@@ -3583,6 +3594,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 215.9 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay"
+			(at 215.9 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "CRCW1206270RFKEA"
 			(at 215.9 53.34 0)
 			(effects
 				(font
@@ -3823,7 +3852,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "M3"
 			(at 250.19 166.3699 0)
 			(effects
 				(font
@@ -3999,6 +4028,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 234.95 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "TE Connectivity"
+			(at 234.95 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "9-146285-0"
 			(at 234.95 87.63 0)
 			(effects
 				(font
@@ -4297,6 +4344,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 59.69 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "C1206C104K4RACTU"
+			(at 59.69 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cca2d7f0-b960-45b8-bd06-c768fbc84d8a")
 		)
@@ -4331,7 +4396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "270R"
 			(at 228.6 54.6099 0)
 			(effects
 				(font
@@ -4359,6 +4424,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 226.06 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay"
+			(at 226.06 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "CRCW1206270RFKEA"
 			(at 226.06 53.34 0)
 			(effects
 				(font
@@ -4401,7 +4484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "M3"
 			(at 250.19 149.8599 0)
 			(effects
 				(font
@@ -4519,6 +4602,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 101.6 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "C1206C104K4RACTU"
+			(at 101.6 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6f61a6d-7cb2-4587-9544-6bb242322b89")
 		)
@@ -4619,7 +4720,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "270R"
 			(at 248.92 54.6099 0)
 			(effects
 				(font
@@ -4647,6 +4748,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 246.38 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay"
+			(at 246.38 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "CRCW1206270RFKEA"
 			(at 246.38 53.34 0)
 			(effects
 				(font
@@ -4726,7 +4845,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "STMicroelectronics"
 			(at 154.94 55.88 0)
 			(effects
 				(font
@@ -4735,7 +4854,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "STM32F042K6T6"
 			(at 154.94 55.88 0)
 			(effects
 				(font
@@ -4904,6 +5023,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "Lite-On"
+			(at 215.9 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "LTST-C150KRKT"
+			(at 215.9 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3b267f9-5f05-4270-a091-2afd16ce4670")
 		)
@@ -4966,6 +5103,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 46.99 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Kemet"
+			(at 46.99 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "C1206C104K4RACTU"
 			(at 46.99 168.91 0)
 			(effects
 				(font
@@ -5110,7 +5265,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Samtec"
 			(at 158.75 132.08 0)
 			(effects
 				(font
@@ -5119,7 +5274,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "FTSH-105-01-L-D-007-K"
 			(at 158.75 132.08 0)
 			(effects
 				(font
@@ -5186,7 +5341,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "270R"
 			(at 238.76 54.6099 0)
 			(effects
 				(font
@@ -5214,6 +5369,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay"
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "CRCW1206270RFKEA"
 			(at 236.22 53.34 0)
 			(effects
 				(font
@@ -5358,6 +5531,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "Lite-On"
+			(at 246.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "LTST-C150KRKT"
+			(at 246.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3b267f9-5f05-4270-a091-2afd16ce4671")
 		)
@@ -5486,6 +5677,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 236.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Lite-On"
+			(at 236.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "LTST-C150KRKT"
 			(at 236.22 45.72 0)
 			(effects
 				(font
@@ -5630,6 +5839,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 34.29 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "C1206C104K4RACTU"
+			(at 34.29 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1bc4d031-7657-4a3f-82b5-e986f5c9b188")
 		)
@@ -5692,6 +5919,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 226.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Lite-On"
+			(at 226.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "LTST-C150KRKT"
 			(at 226.06 45.72 0)
 			(effects
 				(font
@@ -6064,7 +6309,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "M3"
 			(at 250.19 142.2399 0)
 			(effects
 				(font
