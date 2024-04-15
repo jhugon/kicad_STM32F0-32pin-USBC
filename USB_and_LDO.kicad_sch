@@ -25,7 +25,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -92,7 +92,7 @@
 					)
 				)
 				(pin power_in line
-					(at -1.27 -10.16 90)
+					(at 0 -10.16 90)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -120,24 +120,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 2.54 -10.16 90)
-					(length 2.54)
-					(name "EP-GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2336,12 +2318,6 @@
 		(uuid "51a8a2c3-0c3c-4f20-b6f5-c0da40e84678")
 	)
 	(junction
-		(at 190.5 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "740a7306-cc6b-43d4-808f-115727c6ca1e")
-	)
-	(junction
 		(at 153.67 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2380,26 +2356,6 @@
 			(type default)
 		)
 		(uuid "08954ee6-c455-4c95-8ab0-0b5f4842a2ae")
-	)
-	(wire
-		(pts
-			(xy 186.69 102.87) (xy 190.5 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11850c87-f549-4729-a934-3cc37eea34e3")
-	)
-	(wire
-		(pts
-			(xy 190.5 102.87) (xy 190.5 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "153e3788-6fb1-4b6a-974f-dbf9295fdb02")
 	)
 	(wire
 		(pts
@@ -3027,7 +2983,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 104.14 0)
+		(at 187.96 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3036,7 +2992,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e422f81-5e0c-45f9-9af2-4ab20d7f4672")
 		(property "Reference" "#PWR014"
-			(at 190.5 110.49 0)
+			(at 187.96 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3045,7 +3001,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 109.22 0)
+			(at 187.96 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3053,7 +3009,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 104.14 0)
+			(at 187.96 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3062,7 +3018,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 104.14 0)
+			(at 187.96 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3071,7 +3027,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 104.14 0)
+			(at 187.96 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3116,7 +3072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 			(at 187.96 92.71 0)
 			(effects
 				(font
@@ -3169,9 +3125,6 @@
 		)
 		(pin "2"
 			(uuid "dd5a13b6-64d2-41a2-a2db-7e95eade5697")
-		)
-		(pin "4"
-			(uuid "24c90f6d-77aa-4485-bcdf-aaa5dd525082")
 		)
 		(instances
 			(project "STM32F0-32pin-USBC"
@@ -3576,7 +3529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 50.546 133.604 90)
 			(effects
 				(font
@@ -3796,7 +3749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 205.74 93.98 0)
 			(effects
 				(font
@@ -3884,7 +3837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
 			(at 132.08 93.98 0)
 			(effects
 				(font
@@ -4038,7 +3991,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 230.886 92.964 90)
 			(effects
 				(font
@@ -4126,7 +4079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 35.306 133.604 90)
 			(effects
 				(font
@@ -4280,7 +4233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 168.6052 96.52 0)
 			(effects
 				(font
@@ -4566,7 +4519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 216.8652 109.22 0)
 			(effects
 				(font
@@ -4654,7 +4607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -4742,7 +4695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 154.6352 96.52 0)
 			(effects
 				(font
@@ -4828,7 +4781,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085"
 			(at 48.26 81.28 0)
 			(effects
 				(font
