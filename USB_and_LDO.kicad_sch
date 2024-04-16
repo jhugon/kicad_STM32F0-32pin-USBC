@@ -4823,7 +4823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085"
+		(property "Footprint" "AAAA_HugonLib:USB_C_Receptacle_GCT_USB4085_Reduced_Pad_Size"
 			(at 48.26 81.28 0)
 			(effects
 				(font
