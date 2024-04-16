@@ -3466,88 +3466,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 247.65 156.21 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "137cb26b-e8a9-48aa-b0b5-795e0e726ddb")
-		(property "Reference" "H3"
-			(at 250.19 154.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M3"
-			(at 250.19 157.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 247.65 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 247.65 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" ""
-			(at 247.65 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR Part No" ""
-			(at 247.65 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "STM32F0-32pin-USBC"
-				(path "/442e26cf-a0b4-49b0-8670-5150c599c386"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 215.9 53.34 0)
 		(unit 1)
@@ -3828,88 +3746,6 @@
 			(project "STM32F0-32pin-USBC"
 				(path "/442e26cf-a0b4-49b0-8670-5150c599c386"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 247.65 165.1 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "34b89ebf-b974-481a-83d0-34347ade44db")
-		(property "Reference" "H4"
-			(at 250.19 163.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M3"
-			(at 250.19 166.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 247.65 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 247.65 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" ""
-			(at 247.65 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR Part No" ""
-			(at 247.65 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "STM32F0-32pin-USBC"
-				(path "/442e26cf-a0b4-49b0-8670-5150c599c386"
-					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -4467,7 +4303,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 148.59 0)
+		(at 252.73 166.37 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -4476,7 +4312,7 @@
 		(fields_autoplaced yes)
 		(uuid "798c4bd5-391a-49a4-8596-1b141c31cd50")
 		(property "Reference" "H2"
-			(at 250.19 147.3199 0)
+			(at 255.27 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4485,7 +4321,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 250.19 149.8599 0)
+			(at 255.27 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4494,7 +4330,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 247.65 148.59 0)
+			(at 252.73 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4503,7 +4339,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 148.59 0)
+			(at 252.73 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,7 +4348,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 148.59 0)
+			(at 252.73 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,7 +4357,7 @@
 			)
 		)
 		(property "MFR" ""
-			(at 247.65 148.59 0)
+			(at 252.73 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4530,7 +4366,7 @@
 			)
 		)
 		(property "MFR Part No" ""
-			(at 247.65 148.59 0)
+			(at 252.73 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6292,7 +6128,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 140.97 0)
+		(at 252.73 158.75 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6301,7 +6137,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb3548b8-71ee-4798-a0d0-693a4b8006d3")
 		(property "Reference" "H1"
-			(at 250.19 139.6999 0)
+			(at 255.27 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6310,7 +6146,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 250.19 142.2399 0)
+			(at 255.27 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +6155,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 247.65 140.97 0)
+			(at 252.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,7 +6164,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 140.97 0)
+			(at 252.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6337,7 +6173,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 140.97 0)
+			(at 252.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6346,7 +6182,7 @@
 			)
 		)
 		(property "MFR" ""
-			(at 247.65 140.97 0)
+			(at 252.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6355,7 +6191,7 @@
 			)
 		)
 		(property "MFR Part No" ""
-			(at 247.65 140.97 0)
+			(at 252.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)

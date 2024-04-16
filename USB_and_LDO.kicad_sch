@@ -2526,6 +2526,28 @@
 		)
 		(uuid "93c57880-e62a-49b9-89f3-d29eda37351e")
 	)
+	(label "D+_conn"
+		(at 63.5 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11f61750-3979-4ee4-937d-5e2f2509d9dc")
+	)
+	(label "D-_conn"
+		(at 63.5 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39320093-4faf-4a91-a3c0-9559e9ef97e4")
+	)
 	(label "CC2"
 		(at 49.53 129.54 0)
 		(fields_autoplaced yes)
