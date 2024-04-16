@@ -2526,6 +2526,17 @@
 		)
 		(uuid "93c57880-e62a-49b9-89f3-d29eda37351e")
 	)
+	(label "ldo_jumper"
+		(at 217.17 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0494e838-c271-47b8-92bc-313f018094b8")
+	)
 	(label "D+_conn"
 		(at 63.5 83.82 0)
 		(fields_autoplaced yes)
