@@ -3,7 +3,13 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "372cd37b-b55d-4b0c-8160-1bd5aa3e76d3")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "STM32F0 32 Pin USB-C")
+		(date "2024-04-18")
+		(rev "1.0")
+		(company "HugonLabs")
+	)
 	(lib_symbols
 		(symbol "AAAA_HugonLib:MCP1755S-XX02E/DB"
 			(exclude_from_sim no)
