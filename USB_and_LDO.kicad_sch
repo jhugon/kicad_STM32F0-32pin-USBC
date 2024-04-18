@@ -5,7 +5,7 @@
 	(uuid "372cd37b-b55d-4b0c-8160-1bd5aa3e76d3")
 	(paper "A4")
 	(lib_symbols
-		(symbol "AAAA_HugonLib:MCP1755S-XX02/DB"
+		(symbol "AAAA_HugonLib:MCP1755S-XX02E/DB"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -61,6 +61,15 @@
 					(hide yes)
 				)
 			)
+			(property "MFR Part No" "MCP1755S-XX02E/DB"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "LDO, regulator, linear, SOT-223"
 				(at 0 0 0)
 				(effects
@@ -70,7 +79,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "MCP1755S-XX02/DB_1_1"
+			(symbol "MCP1755S-XX02E/DB_1_1"
 				(rectangle
 					(start -5.08 6.35)
 					(end 6.35 -7.62)
@@ -3090,7 +3099,7 @@
 		)
 	)
 	(symbol
-		(lib_id "AAAA_HugonLib:MCP1755S-XX02/DB")
+		(lib_id "AAAA_HugonLib:MCP1755S-XX02E/DB")
 		(at 187.96 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3150,7 +3159,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" "MCP1755S-3302E/DB"
+		(property "MFR Part No" "MCP1755S-XX02E/DB"
 			(at 187.96 92.71 0)
 			(effects
 				(font
@@ -3571,7 +3580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 50.546 133.604 90)
 			(effects
 				(font
@@ -3607,7 +3616,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" "CRCW12065K10FKEA"
+		(property "MFR Part No" "CRCW08055K10FKEA"
 			(at 49.53 133.35 0)
 			(effects
 				(font
@@ -4033,7 +4042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 230.886 92.964 90)
 			(effects
 				(font
@@ -4121,7 +4130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 35.306 133.604 90)
 			(effects
 				(font
@@ -4157,7 +4166,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" "CRCW12065K10FKEA"
+		(property "MFR Part No" "CRCW08055K10FKEA"
 			(at 34.29 133.35 0)
 			(effects
 				(font
@@ -4275,7 +4284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 168.6052 96.52 0)
 			(effects
 				(font
@@ -4311,7 +4320,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" "C1206C105K4RACTU"
+		(property "MFR Part No" "C0805C105K4RACTU"
 			(at 167.64 92.71 0)
 			(effects
 				(font
@@ -4561,7 +4570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 216.8652 109.22 0)
 			(effects
 				(font
@@ -4597,7 +4606,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" "C1206C105K4RACTU"
+		(property "MFR Part No" "C0805C105K4RACTU"
 			(at 215.9 105.41 0)
 			(effects
 				(font
